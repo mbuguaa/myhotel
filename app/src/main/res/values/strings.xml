@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Firebasestorage</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_insert">InsertActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_update_details">UpdateDetailsActivity</string>
+    <string name="title_activity_systemmanagement">Systemmanagement</string>
+    <string name="title_activity_booking">BookingActivity</string>
+    <string name="title_activity_homepage">HomepageActivity</string>
+    <string name="title_activity_system_management">SystemManagementActivity</string>
+    <string name="title_activity_roomtype">RoomtypeActivity</string>
+    <string name="title_activity_detailsofroom">DetailsofroomActivity</string>
+    <string name="title_activity_payment_details">paymentDetailsActivity</string>
+    <string name="title_activity_detailsof_room2">DetailsofRoomActivity2</string>
+    <string name="title_activity_payment_details2">paymentDetailsActivity2</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_dropdownmenu">dropdownmenuActivity</string>
+    <string name="title_activity_pricerules">pricerulesActivity</string>
+    <string name="title_activity_lottie">lottieActivity</string>
+    <string name="title_activity_detailsofroom2">DetailsofroomActivity2</string>
+    <string name="title_activity_paymentdetails2">paymentdetailsActivity2</string>
+    <string name="title_activity_successful">Successful</string>
+</resources>

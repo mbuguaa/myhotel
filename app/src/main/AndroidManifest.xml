@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Firebasestorage"
+        tools:targetApi="31">
+        <activity
+            android:name=".Successful"
+            android:exported="false"
+            android:label="@string/title_activity_successful"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".paymentdetailsActivity2"
+            android:exported="false"
+            android:label="@string/title_activity_paymentdetails2"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".DetailsofroomActivity2"
+            android:exported="false"
+            android:label="@string/title_activity_detailsofroom2"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".lottieActivity"
+            android:exported="false"
+            android:label="@string/title_activity_lottie"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".pricerulesActivity"
+            android:exported="false"
+            android:label="@string/title_activity_pricerules"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".dropdownmenuActivity"
+            android:exported="false"
+            android:label="@string/title_activity_dropdownmenu"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".MenuActivity"
+            android:exported="false"
+            android:label="@string/title_activity_menu"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".HistoryActivity"
+            android:exported="false"
+            android:label="@string/title_activity_history"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".paymentDetailsActivity2"
+            android:exported="false"
+            android:label="@string/title_activity_payment_details2"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".DetailsofRoomActivity2"
+            android:exported="false"
+            android:label="@string/title_activity_detailsof_room2"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".paymentDetailsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_payment_details"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".DetailsofroomActivity"
+            android:exported="false"
+            android:label="@string/title_activity_detailsofroom"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".RoomtypeActivity"
+            android:exported="false"
+            android:label="@string/title_activity_roomtype"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".SystemManagementActivity"
+            android:exported="false"
+            android:label="@string/title_activity_system_management"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".HomepageActivity"
+            android:exported="false"
+            android:label="@string/title_activity_homepage"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".BookingActivity"
+            android:exported="false"
+            android:label="@string/title_activity_booking"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".Systemmanagement"
+            android:exported="false"
+            android:label="@string/title_activity_systemmanagement"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".UpdateDetailsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_update_details"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".DetailsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_details"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".InsertActivity"
+            android:exported="false"
+            android:label="@string/title_activity_insert"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".Splashscreen"
+            android:exported="true"
+            android:label="Sansiro Hotel"
+            android:theme="@style/Theme.Firebasestorage">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LocationActivity"
+            android:exported="false"
+            android:label="@string/title_activity_location"
+            android:theme="@style/Theme.Firebasestorage" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Firebasestorage" />
+    </application>
+
+</manifest>

@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\drawable\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\raw_register.json.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\raw\\register.json"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\drawable_img_5.png.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\drawable\\img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\drawable_img_4.png.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\drawable\\img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\raw_splash.json.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\raw\\splash.json"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\drawable_hotel.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\drawable\\hotel.webp"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\raw_welcome.json.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\raw\\welcome.json"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\raw_hotell.json.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\raw\\hotell.json"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-merged_res-60:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Latitude 5491\\.gradle\\daemon\\8.0\\com.example.firebasestorage.app-main-62:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.firebasestorage.app-merged_res-60:/drawable_img_6.png.flat",
+        "source": "com.example.firebasestorage.app-main-62:/drawable/img_6.png"
+    }
+]
